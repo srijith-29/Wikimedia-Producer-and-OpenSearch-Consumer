@@ -31,7 +31,7 @@ public class OpenSearchConsumer {
 
     public static RestHighLevelClient createOpenSearchClient() {
 
-        String connString = "https://eygckacdiy:1ddkiask9y@rutgers-search-5421900826.us-east-1.bonsaisearch.net:443";
+        String connString = "";
 
         // we build a URI from the connection string
         RestHighLevelClient restHighLevelClient;
