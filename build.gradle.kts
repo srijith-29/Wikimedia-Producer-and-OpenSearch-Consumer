@@ -25,6 +25,16 @@ dependencies {
     // https://mvnrepository.com/artifact/com.launchdarkly/okhttp-eventsource
     implementation("com.launchdarkly:okhttp-eventsource:4.1.1")
 
+    // https://mvnrepository.com/artifact/org.opensearch.client/opensearch-rest-high-level-client
+    implementation("org.opensearch.client:opensearch-rest-high-level-client:2.18.0")
+
+    // https://mvnrepository.com/artifact/com.google.code.gson/gson
+    implementation("com.google.code.gson:gson:2.11.0")
+
+
+
+
+
 
 }
 
