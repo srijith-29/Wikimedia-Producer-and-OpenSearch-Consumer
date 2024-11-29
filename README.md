@@ -15,7 +15,6 @@ This project streams real-time data from Wikimedia using **Kafka** and stores it
 ## Requirements  
 - **Kafka**: Apache Kafka installed and configured.  
 - **OpenSearch**: An OpenSearch cluster set up and running.  
-- **Python** (or language of choice for producer/consumer scripts).  
 
 ## Setup  
 1. **Kafka Setup**:  
